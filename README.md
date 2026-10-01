@@ -17,7 +17,7 @@ A hybrid recommendation system combining:
 
 ## 📊 Project Plan
 - Week 1: Problem Definition ✅
-- Week 2: Data Collection & EDA (In Progress)
+- Week 2: Data Sourcing & Analysis Planning ✅
 - Week 3: Data Cleaning
 - Week 4: Feature Engineering
 - Week 5: Modeling
@@ -35,7 +35,7 @@ A hybrid recommendation system combining:
 - src/ → scripts
 
 ## 🚀 Status
-Week 1 completed. Moving to data analysis.
+Week 1 & Week 2 completed. Moving to EDA and implementation.
 
 ## 👤 Author
 Harshavardhan Reddy
