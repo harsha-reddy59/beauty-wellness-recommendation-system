@@ -18,7 +18,7 @@ A hybrid recommendation system combining:
 ## 📊 Project Plan
 - Week 1: Problem Definition ✅
 - Week 2: Data Sourcing & Analysis Planning ✅
-- Week 3: Data Cleaning
+• Week 3: Data Cleaning & Preprocessing ✅
 - Week 4: Feature Engineering
 - Week 5: Modeling
 - Week 6: Evaluation
@@ -35,12 +35,25 @@ A hybrid recommendation system combining:
 - src/ → scripts
 
 ## 🚀 Status
-Week 1, Week 2, and Week 3 completed. Data preprocessing pipeline implemented.
+Week 1, Week 2, and Week 3 completed successfully. 
+
+✔ Problem definition and business understanding established  
+✔ Data sourcing strategy and initial analysis planning completed  
+✔ Data cleaning and preprocessing pipeline implemented using Python  
+
+Project is now progressing to Exploratory Data Analysis and Feature Engineering.
 
 ## Data Pipeline
-- Data collection strategy (Week 2)
-- Data cleaning and preprocessing (Week 3)
-- Ready for EDA and modeling
+• Data collection strategy (Week 2)  
+• Data cleaning (missing values, duplicates, outliers)  
+• Feature scaling and normalization  
+• Text preprocessing for reviews (NLP)  
+• Ready dataset for modeling
+
+Future Work:
+• EDA and visualization
+• Feature engineering
+• Model building and evaluation
 
 ## 👤 Author
 Harshavardhan Reddy
