@@ -35,7 +35,12 @@ A hybrid recommendation system combining:
 - src/ → scripts
 
 ## 🚀 Status
-Week 1 & Week 2 completed. Moving to EDA and implementation.
+Week 1, Week 2, and Week 3 completed. Data preprocessing pipeline implemented.
+
+## Data Pipeline
+- Data collection strategy (Week 2)
+- Data cleaning and preprocessing (Week 3)
+- Ready for EDA and modeling
 
 ## 👤 Author
 Harshavardhan Reddy
